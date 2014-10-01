@@ -13,7 +13,8 @@ Music list
 	- Daft Punk - Get Lucky                   -2
 	- John Newman - Love Me Again             +2
 	- Tom Jones - Sex Bomb
-	- Jamiroquai - Love Foolosophy
+	- Jamiroquai - Love Foolosophy (?)
 	- One Republic - Counting Stars
-	- Slash - Aint Life Grand                 +1
-
+	- Slash's snakepit - Ain't Life Grand     +1
+	- Jets - Are you gonna be my girl
+	- Scooter - Fire (Part)
